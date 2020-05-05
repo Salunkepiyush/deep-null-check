@@ -23,5 +23,9 @@
         "is-undefined",
         "isNull",
         "isUndefined"
-    ]
+    ],
+	"repository": {
+    "type": "git",
+    "url": "git+https://github.com/Salunkepiyush/deep-null-check.git"
+  },
 }
