@@ -1,0 +1,27 @@
+{
+    "name": "deep-null-check",
+    "version": "1.0.4",
+    "description": "This library is to check for null and undefined values in JSON objects",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Piyush Salunke",
+    "license": "ISC",
+    "keywords": [
+        "object",
+        "nullcheck",
+        "null",
+        "deep",
+        "deep-check",
+        "null-check",
+        "boolean",
+        "empty",
+        "nested",
+        "is-null",
+        "undefined",
+        "is-undefined",
+        "isNull",
+        "isUndefined"
+    ]
+}
